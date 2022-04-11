@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>issykul&#39;s World</title>
+    <link>http://issykul.net/</link>
+    <description>Recent content on issykul&#39;s World</description>
+    <image>
+      <url>http://issykul.net/me.png</url>
+      <link>http://issykul.net/me.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://issykul.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://issykul.net/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://issykul.net/about-me/</guid>
+      <description>Hi I’m Paul,
+I live near Düsseldorf, Germany. I am the founder of Tech-Doktor.de, an IT student and tech enthusiast.
+I’ve been building software since elementary school, so my love for computers and technology is lifelong. I’m interested in anything that will help me understand myself and others better. The best way to understand people is to understand the environment they have that shaped them. That’s why I’m also fascinated by psychology and the history of our species.</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>http://issykul.net/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://issykul.net/license/</guid>
+      <description>Issykul.net and Issykul.github.io © 2022 by Issykul is licensed under Attribution-NonCommercial 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
+Creative Commons Attribution-NonCommercial 4.0 International Public License
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial 4.0 International Public License (&amp;ldquo;Public License&amp;rdquo;). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://issykul.net/sitemap.xml
